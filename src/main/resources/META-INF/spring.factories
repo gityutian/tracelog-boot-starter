@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.yutian.tracelog.autoconfigure.FeignRequestInterceptor,\
+    com.yutian.tracelog.autoconfigure.InterceptorConfigure,\
+    com.yutian.tracelog.autoconfigure.XXLJobLogAspect
